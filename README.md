@@ -51,4 +51,5 @@ To use this dApp:
 4. Deploy to the Aptos network
 5. Interact with the contract using the provided function calls
 
-Detailed instructions for deployment and interaction can be found in the documentation.
+Contract Adress : MedicalApp="0x2ab2b511c48f210fa47900277b5d924672b60b59927de585d4f5309183c6ee44"
+
